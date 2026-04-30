@@ -1,4 +1,3 @@
-// const card = document.querySelector(".card");
 const showBtn = document.getElementById("show");
 const hiddenBtn = document.getElementById("btn-hidden");
 const addContainer = document.getElementById("add-container");
